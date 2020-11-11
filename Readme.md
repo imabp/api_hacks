@@ -40,4 +40,4 @@
 
 ## Sponsors
 We are looking for sponsors who can help api_hacks.<br/>
-Contact Email: abir.pal@studentambassadors.com 
+Contact Email: abir.pal@studentambassadors.com (or) abir.pal899@gmail.com
