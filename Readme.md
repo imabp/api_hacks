@@ -1,5 +1,5 @@
 # API Hacks 
-<img src="https://img.shields.io/badge/HACKATHON-API__Hacks-brightgreen?style=for-the-badge&logo=appveyor"/> <img src="https://img.shields.io/badge/Development-Mode-red?style=for-the-badge&logo=appveyor"/> <img src="https://img.shields.io/badge/20%20NOV%202020-30%20NOV%202020-informational?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/badge/HACKATHON-API__Hacks-brightgreen?style=for-the-badge&logo=appveyor"/> <img src="https://img.shields.io/badge/Development-Mode-red?style=for-the-badge&logo=appveyor"/> <img src="https://img.shields.io/badge/25%20NOV%202020-30%20NOV%202020-informational?style=for-the-badge&logo=appveyor"/>
 ## 😊 Themes 
 1. API Hacks / Serverless hacks
 
