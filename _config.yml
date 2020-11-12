@@ -3,5 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+image:
+  background: 'https://github.com/imabp/api_hacks/blob/main/_static/bg.jpg?raw=true'
 include:
   _static/start.md
