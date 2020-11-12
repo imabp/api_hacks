@@ -36,8 +36,10 @@
   5. API Complexities.
   6. Best Uses of API.
   7. Adding more...
-
-
+ 
+ * Resources for Participants ( Adding more ) 
+  1. <a href="https://imabp.github.io/api_hacks/start.html">Carl and his Driver: An Intro to API ?</a>
+ 
 ## Sponsors
 We are looking for sponsors who can help api_hacks.<br/>
 Contact Email: abir.pal@studentambassadors.com (or) abir.pal899@gmail.com
