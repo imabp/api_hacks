@@ -9,7 +9,11 @@
  🌍 **To leverage open source culture and inculcate learning by doing approach in students**.
 
 ## Add Ons
- * Key Features 🔑
+
+
+
+Key Features 🔑 
+ 
   1. Completely Open Source Hackathon
   1. Students can learn and build
   1. 5-day sprint. (25 Nov to 30 Nov)
@@ -18,8 +22,12 @@
   1. Introducing Postman APIs
   1. Introduction to Microsoft APIs
   1. Adding more...
+  
 
- * Useful Sessions 
+
+ <details>
+ <summary>Useful Sessions ( Click to view ) </summary>
+ 
   1. Personal Branding 
   2. Patent Research
   3. Git and GitHub
@@ -27,8 +35,11 @@
   5. Azure Serverless
   6. Mentors Rounds.
   7. Adding more...
+</details>
 
- * Judging Factors.
+<details>
+ <summary>Judging Factors ( Click to view ) </summary>
+
   1. Final Output
   2. Repo Design
   3. Component Usage
@@ -36,6 +47,7 @@
   5. API Complexities.
   6. Best Uses of API.
   7. Adding more...
+ </details>
  
  * Resources for Participants ( Adding more ) 
   1. <a href="https://imabp.github.io/api_hacks/start.html">Carl and his Driver: An Intro to API ?</a>
